@@ -1,7 +1,7 @@
 # Git and GitHub Change10000000000000000000000
 
 This is a speedy how-to, intended on getting you started with GitHub.
-
+ASMDASDJKASJDHAS
 1. Check accounts needed:
 
    1. Gmail, or other account used for email identity
