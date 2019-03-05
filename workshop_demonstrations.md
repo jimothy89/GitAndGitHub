@@ -1,4 +1,4 @@
-# Workshop Demonstrations
+# Workshop Demonstrations YOU SMELL OF POO! 💩 
 
 These demonstrations will take you through basic Git concepts. If you have your own laptop, please follow along, to avoid becoming drowsy and falling asleep. Your reward is to get a copy of this repository into your account and onto your laptop. Isn't that great? :-)
 
