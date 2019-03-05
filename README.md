@@ -1,19 +1,19 @@
-# Git and GitHub
+# Git and GitHub Change
 
-This is a speedy how-to, intended on getting you started with GitHub. 
+This is a speedy how-to, intended on getting you started with GitHub.
 
 1. Check accounts needed:
 
    1. Gmail, or other account used for email identity
-   2. GitHub account 
+   2. GitHub account
       * create one, using your email identity.
       * you can create one at: https://github.com/join
 
 2. Check software needed:
 
-   1. GitHub Desktop. 
+   1. GitHub Desktop.
       * You can find this at: https://desktop.github.com/
-   2. NodeJS (for `npm`  the NodeJS package manager). 
+   2. NodeJS (for `npm`  the NodeJS package manager).
       * You can find this at: https://nodejs.org/
 
 3. Are you in a workshop?
@@ -32,7 +32,7 @@ This is a speedy how-to, intended on getting you started with GitHub.
       8. What it means to commit to a repository
       9. What it means to fetch, pull and push to a repository
       10. Keeping unwanted files out of your repository
-      11. What GitHub knows about you, and how you can make your GitHub profile a honeypot for recruiters. 
+      11. What GitHub knows about you, and how you can make your GitHub profile a honeypot for recruiters.
 
    3. You'll play around with a repository:
 
